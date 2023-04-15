@@ -128,7 +128,7 @@ p{
 }
 
 .iframe1{
-    background-image: rgba(200,200,200,0.2);
+    background: rgba(200,200,200,0.2);
    margin-left: -260px;
     display: flex;
     position:relative;
